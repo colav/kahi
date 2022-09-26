@@ -1,0 +1,30 @@
+{
+    "titles":[],
+    "updated":[],
+    "subtitle":null,
+    "abstract":null,
+    "keywords":[],
+    "types":[],
+    "external_ids":[],
+    "external_urls":[],
+    "date_published":null,
+    "year_published":null,
+    "bibliographic_info":{
+        "volume":null,
+        "issue":null,
+        "start_page":null,
+        "end_page":null,
+        "is_open_access":null,
+        "open_access_status":null,
+        "bibtex":null
+    },
+    "references_count":null,
+    "references":[],
+    "citations_count":null,
+    "citations":[],
+    "citations_url":null,
+    "author_count":null,
+    "authors":[],
+    "source":null,
+    "subjects":[]    
+}
