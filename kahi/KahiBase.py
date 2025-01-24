@@ -134,7 +134,8 @@ class KahiBase:
             "ranking": [],
             "subjects": [],
             "citations_by_year": [],
-            "groups": []
+            "groups": [],
+            "rights": [],
         }
 
     def empty_event(self):
